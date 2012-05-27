@@ -14,3 +14,5 @@ tclayson-admin Plugin
 ---------------------
 
 Located at `wp-content/plugins/tclayson-admin` this plugin allows you to brand and take control of your admin section at a low level. This includes branding it with your own logos and hiding some menu items/update notifications and such. Your clients don't want to be baffled by the whole admin section, they only want what they need to get by, this is the answer to that.
+
+It is heavily commented, so please have a look at the source code to understand what is going on.
